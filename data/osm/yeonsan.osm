@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-11-03T03:52:34Z"/>
+
+  <node id="414663644" lat="35.1860649" lon="129.0817351" version="8" timestamp="2025-11-25T13:57:34Z" changeset="175111975" uid="7245212" user="LuxuryCoop">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="연산교차로"/>
+    <tag k="name:en" v="Yeonsangyocharo"/>
+    <tag k="name:ja" v="蓮山交差点"/>
+    <tag k="name:ko" v="연산교차로"/>
+    <tag k="name:ko-Latn" v="Yeonsangyocharo"/>
+    <tag k="noref" v="yes"/>
+  </node>
+  <node id="436724931" lat="35.1728887" lon="129.0711759" version="3" timestamp="2020-04-23T02:30:23Z" changeset="83968622" uid="9918175" user="lensur"/>
+  <node id="436724932" lat="35.1738408" lon="129.0720076" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724937" lat="35.1772484" lon="129.0747198" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724938" lat="35.1776316" lon="129.0750115" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724943" lat="35.1807667" lon="129.0775209" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724945" lat="35.1822722" lon="129.0787640" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724946" lat="35.1825385" lon="129.0789709" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="436724952" lat="35.1887605" lon="129.0809495" version="3" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="436815487" lat="35.1852887" lon="129.0754999" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="436815489" lat="35.1861674" lon="129.0761254" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="436818089" lat="35.1856490" lon="129.0872488" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="436818092" lat="35.1857429" lon="129.0838533" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="436818093" lat="35.1859343" lon="129.0823894" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="436818569" lat="35.1883693" lon="129.0846661" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="436843762" lat="35.1921096" lon="129.0894237" version="7" timestamp="2025-11-25T13:57:34Z" changeset="175111975" uid="7245212" user="LuxuryCoop">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="과정교차로"/>
+    <tag k="name:ko" v="과정교차로"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="436859903" lat="35.1905920" lon="129.0874934" version="3" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="1768492935" lat="35.1866179" lon="129.0817165" version="1" timestamp="2012-05-28T10:22:42Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492949" lat="35.1866413" lon="129.0814129" version="4" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham"/>
+  <node id="1768492950" lat="35.1858959" lon="129.0822772" version="2" timestamp="2015-09-05T11:58:03Z" changeset="33813283" uid="1256497" user="andi9876"/>
+  <node id="1768492956" lat="35.1857252" lon="129.0821298" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492957" lat="35.1855898" lon="129.0818881" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492960" lat="35.1857945" lon="129.0813029" version="3" timestamp="2019-07-13T04:48:30Z" changeset="72202300" uid="2924920" user="maphunter36"/>
+  <node id="1768492964" lat="35.1855165" lon="129.0820880" version="3" timestamp="2019-09-04T05:42:05Z" changeset="74065614" uid="238290" user="octel"/>
+  <node id="1768492967" lat="35.1863307" lon="129.0811889" version="3" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham"/>
+  <node id="1768492971" lat="35.1861417" lon="129.0822263" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492973" lat="35.1865081" lon="129.0814025" version="3" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham"/>
+  <node id="1768492974" lat="35.1864157" lon="129.0813365" version="2" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham"/>
+  <node id="1768492976" lat="35.1856222" lon="129.0814431" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492977" lat="35.1858370" lon="129.0822022" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768492997" lat="35.1856208" lon="129.0817776" version="2" timestamp="2015-09-05T11:58:03Z" changeset="33813283" uid="1256497" user="andi9876"/>
+  <node id="1768492998" lat="35.1865631" lon="129.0818532" version="1" timestamp="2012-05-28T10:22:43Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768493002" lat="35.1865281" lon="129.0820490" version="1" timestamp="2012-05-28T10:22:44Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768493009" lat="35.1862957" lon="129.0821993" version="1" timestamp="2012-05-28T10:22:44Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768493018" lat="35.1865083" lon="129.0822483" version="3" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="1768493024" lat="35.1855564" lon="129.0819796" version="1" timestamp="2012-05-28T10:22:44Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768493029" lat="35.1860283" lon="129.0822958" version="1" timestamp="2012-05-28T10:22:44Z" changeset="11724985" uid="687135" user="kk0192"/>
+  <node id="1768604864" lat="35.1759101" lon="129.0736393" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1771107855" lat="35.1775152" lon="129.0749310" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1771107865" lat="35.1767472" lon="129.0743113" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1772203894" lat="35.1816465" lon="129.0782368" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1772203896" lat="35.1811502" lon="129.0778164" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1772207739" lat="35.1843762" lon="129.0794285" version="4" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207751" lat="35.1866026" lon="129.0764353" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207754" lat="35.1860094" lon="129.0775381" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772207756" lat="35.1870326" lon="129.0767380" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207763" lat="35.1852048" lon="129.0807649" version="1" timestamp="2012-06-01T04:57:28Z" changeset="11763936" uid="476671" user="aquilegia"/>
+  <node id="1772207768" lat="35.1847927" lon="129.0797586" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207769" lat="35.1853923" lon="129.0786573" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772207771" lat="35.1837299" lon="129.0773295" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772207776" lat="35.1872398" lon="129.0768889" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207779" lat="35.1865521" lon="129.0765237" version="1" timestamp="2012-06-01T04:57:29Z" changeset="11763936" uid="476671" user="aquilegia"/>
+  <node id="1772207782" lat="35.1847381" lon="129.0765270" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772207783" lat="35.1858143" lon="129.0789941" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207786" lat="35.1832516" lon="129.0769474" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207790" lat="35.1855863" lon="129.0772015" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772207792" lat="35.1860064" lon="129.0801407" version="2" timestamp="2017-07-08T08:22:57Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="1772207795" lat="35.1854626" lon="129.0802895" version="1" timestamp="2012-06-01T04:57:29Z" changeset="11763936" uid="476671" user="aquilegia"/>
+  <node id="1772207796" lat="35.1867668" lon="129.0781431" version="5" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207805" lat="35.1864230" lon="129.0778668" version="4" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207806" lat="35.1860939" lon="129.0762581" version="1" timestamp="2012-06-01T04:57:29Z" changeset="11763936" uid="476671" user="aquilegia"/>
+  <node id="1772207809" lat="35.1852155" lon="129.0801028" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207813" lat="35.1831197" lon="129.0784327" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207816" lat="35.1862995" lon="129.0793819" version="2" timestamp="2017-07-08T08:22:57Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="1772207819" lat="35.1826572" lon="129.0780661" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="1772207823" lat="35.1845554" lon="129.0779888" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223693" lat="35.1847808" lon="129.0815313" version="2" timestamp="2020-03-28T15:44:12Z" changeset="82756602" uid="9918175" user="lensur"/>
+  <node id="1772223699" lat="35.1828692" lon="129.0800095" version="2" timestamp="2020-03-28T15:44:12Z" changeset="82756602" uid="9918175" user="lensur"/>
+  <node id="1772223700" lat="35.1850004" lon="129.0823026" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="1772223717" lat="35.1810242" lon="129.0839554" version="3" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="1772223728" lat="35.1840112" lon="129.0823414" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223733" lat="35.1823767" lon="129.0809171" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223751" lat="35.1824026" lon="129.0788726" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="1772223760" lat="35.1827871" lon="129.0812748" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223767" lat="35.1820281" lon="129.0806133" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223769" lat="35.1824580" lon="129.0830367" version="2" timestamp="2020-03-28T15:44:12Z" changeset="82756602" uid="9918175" user="lensur"/>
+  <node id="1772223771" lat="35.1841349" lon="129.0810171" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223780" lat="35.1849672" lon="129.0821885" version="1" timestamp="2012-06-01T05:25:36Z" changeset="11763936" uid="476671" user="aquilegia"/>
+  <node id="1772223781" lat="35.1836131" lon="129.0819946" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223801" lat="35.1837056" lon="129.0806754" version="5" timestamp="2020-05-11T08:47:30Z" changeset="85011427" uid="9918175" user="lensur"/>
+  <node id="1772223816" lat="35.1831993" lon="129.0816337" version="5" timestamp="2020-05-11T08:47:30Z" changeset="85011427" uid="9918175" user="lensur"/>
+  <node id="1772223817" lat="35.1845631" lon="129.0813580" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772223827" lat="35.1832869" lon="129.0803420" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621810" lat="35.1856870" lon="129.0858726" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621816" lat="35.1857222" lon="129.0845998" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621829" lat="35.1891070" lon="129.0856044" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="1772621839" lat="35.1851075" lon="129.0827544" version="1" timestamp="2012-06-01T12:23:06Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772621845" lat="35.1864838" lon="129.0831164" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621855" lat="35.1861252" lon="129.0872763" version="2" timestamp="2020-03-10T12:57:00Z" changeset="82008688" uid="9918175" user="lensur"/>
+  <node id="1772621857" lat="35.1879453" lon="129.0841386" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="1772621859" lat="35.1858462" lon="129.0830630" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621864" lat="35.1861907" lon="129.0842474" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621865" lat="35.1838197" lon="129.0857976" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621871" lat="35.1861518" lon="129.0858891" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621883" lat="35.1858133" lon="129.0846052" version="1" timestamp="2012-06-01T12:23:07Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772621885" lat="35.1866216" lon="129.0859105" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621890" lat="35.1871308" lon="129.0850123" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="1772621892" lat="35.1865780" lon="129.0873000" version="2" timestamp="2020-03-10T12:57:00Z" changeset="82008688" uid="9918175" user="lensur"/>
+  <node id="1772621898" lat="35.1860410" lon="129.0841157" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772621899" lat="35.1868400" lon="129.0826657" version="3" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="1772621902" lat="35.1853524" lon="129.0829305" version="1" timestamp="2012-06-01T12:23:08Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772621903" lat="35.1871042" lon="129.0850513" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625946" lat="35.1817591" lon="129.0843690" version="1" timestamp="2012-06-01T12:35:41Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625947" lat="35.1845923" lon="129.0835296" version="1" timestamp="2012-06-01T12:35:41Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625948" lat="35.1816197" lon="129.0843477" version="1" timestamp="2012-06-01T12:35:41Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625955" lat="35.1809204" lon="129.0851711" version="1" timestamp="2012-06-01T12:35:41Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625964" lat="35.1817775" lon="129.0843718" version="1" timestamp="2012-06-01T12:35:42Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625966" lat="35.1847534" lon="129.0858348" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625967" lat="35.1827355" lon="129.0839346" version="1" timestamp="2012-06-01T12:35:42Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625972" lat="35.1852784" lon="129.0834455" version="4" timestamp="2020-04-27T02:14:37Z" changeset="84164461" uid="9918175" user="lensur"/>
+  <node id="1772625980" lat="35.1818778" lon="129.0848080" version="1" timestamp="2012-06-01T12:35:42Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625983" lat="35.1820537" lon="129.0842001" version="1" timestamp="2012-06-01T12:35:42Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625985" lat="35.1842564" lon="129.0871920" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625986" lat="35.1857235" lon="129.0845542" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625987" lat="35.1833735" lon="129.0845327" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625988" lat="35.1843070" lon="129.0845515" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772625992" lat="35.1832003" lon="129.0845515" version="1" timestamp="2012-06-01T12:35:43Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772625997" lat="35.1804161" lon="129.0852355" version="1" timestamp="2012-06-01T12:35:43Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626002" lat="35.1810996" lon="129.0845808" version="2" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="1772626003" lat="35.1842828" lon="129.0858107" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626007" lat="35.1834590" lon="129.0837039" version="1" timestamp="2012-06-01T12:35:43Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626016" lat="35.1837762" lon="129.0871662" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626019" lat="35.1847808" lon="129.0845529" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626021" lat="35.1828734" lon="129.0846122" version="1" timestamp="2012-06-01T12:35:44Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626027" lat="35.1851673" lon="129.0872352" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626033" lat="35.1842570" lon="129.0836099" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626034" lat="35.1819507" lon="129.0843155" version="1" timestamp="2012-06-01T12:35:44Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626035" lat="35.1847211" lon="129.0872185" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626039" lat="35.1852502" lon="129.0845542" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626041" lat="35.1818915" lon="129.0848010" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626043" lat="35.1852102" lon="129.0858475" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772626044" lat="35.1810916" lon="129.0851812" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626046" lat="35.1812451" lon="129.0851405" version="2" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="1772626055" lat="35.1832748" lon="129.0837120" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626056" lat="35.1838596" lon="129.0845432" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626060" lat="35.1798768" lon="129.0853106" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626067" lat="35.1828824" lon="129.0846105" version="1" timestamp="2012-06-01T12:35:45Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626070" lat="35.1838711" lon="129.0845435" version="1" timestamp="2012-06-01T12:35:46Z" changeset="11767160" uid="476671" user="aquilegia"/>
+  <node id="1772626092" lat="35.1856138" lon="129.0885205" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="1772630911" lat="35.1814009" lon="129.0844397" version="2" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="1772649256" lat="35.1870283" lon="129.0806726" version="3" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="1772649262" lat="35.1892905" lon="129.0784976" version="3" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="1772649274" lat="35.1883220" lon="129.0794288" version="5" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="1772654444" lat="35.1877611" lon="129.0822006" version="2" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="1772654456" lat="35.1876782" lon="129.0830412" version="1" timestamp="2012-06-01T13:21:52Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1772654457" lat="35.1872690" lon="129.0821698" version="1" timestamp="2012-06-01T13:21:52Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1772654458" lat="35.1876234" lon="129.0814496" version="1" timestamp="2012-06-01T13:21:52Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1772654459" lat="35.1865252" lon="129.0830409" version="1" timestamp="2012-06-01T13:21:52Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1772654460" lat="35.1890714" lon="129.0827445" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="1772654473" lat="35.1870846" lon="129.0830377" version="3" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="1772654477" lat="35.1880998" lon="129.0830442" version="1" timestamp="2012-06-01T13:21:53Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1772654487" lat="35.1881940" lon="129.0829771" version="1" timestamp="2012-06-01T13:21:53Z" changeset="11767611" uid="476671" user="aquilegia"/>
+  <node id="1773421582" lat="35.1917939" lon="129.0890221" version="3" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="2395780680" lat="35.1804766" lon="129.0772960" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="2860431547" lat="35.1788652" lon="129.0848529" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431549" lat="35.1797090" lon="129.0845021" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431553" lat="35.1809392" lon="129.0839908" version="5" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431557" lat="35.1815097" lon="129.0837536" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431559" lat="35.1825844" lon="129.0833069" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431561" lat="35.1825416" lon="129.0833247" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431563" lat="35.1830309" lon="129.0831213" version="5" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="2860431565" lat="35.1843065" lon="129.0825910" version="6" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="3730463269" lat="35.1856377" lon="129.0815997" version="2" timestamp="2015-09-05T12:03:03Z" changeset="33813283" uid="1256497" user="andi9876"/>
+  <node id="4633930950" lat="35.1849807" lon="129.0783285" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4633930951" lat="35.1841352" lon="129.0776531" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4633930952" lat="35.1835397" lon="129.0787656" version="4" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="4633934892" lat="35.1848932" lon="129.0762373" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4633975089" lat="35.1818011" lon="129.0783659" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="4634013255" lat="35.1824390" lon="129.0778933" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="4654857450" lat="35.1916147" lon="129.0802131" version="1" timestamp="2017-02-02T01:34:49Z" changeset="45732163" uid="5182205" user="Bongblo"/>
+  <node id="4915805215" lat="35.1835184" lon="129.0836997" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805216" lat="35.1835513" lon="129.0838524" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805217" lat="35.1837027" lon="129.0839721" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805218" lat="35.1839789" lon="129.0841644" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805219" lat="35.1842898" lon="129.0842281" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4915805220" lat="35.1850354" lon="129.0844577" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805221" lat="35.1850948" lon="129.0844999" version="1" timestamp="2017-06-15T01:46:45Z" changeset="49545397" uid="5207199" user="FUKUTAN"/>
+  <node id="4915805222" lat="35.1851582" lon="129.0845540" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4915874815" lat="35.1820626" lon="129.0841966" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915874817" lat="35.1824353" lon="129.0833689" version="4" timestamp="2020-04-23T03:22:11Z" changeset="83969988" uid="9918175" user="lensur"/>
+  <node id="4915876754" lat="35.1857715" lon="129.0821598" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876755" lat="35.1856583" lon="129.0822779" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876756" lat="35.1855454" lon="129.0825072" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876757" lat="35.1854149" lon="129.0825501" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876760" lat="35.1853880" lon="129.0829402" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4915876761" lat="35.1851447" lon="129.0827812" version="1" timestamp="2017-06-15T03:15:48Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876764" lat="35.1855722" lon="129.0824526" version="1" timestamp="2017-06-15T03:15:49Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876780" lat="35.1835756" lon="129.0809216" version="2" timestamp="2020-05-11T08:47:30Z" changeset="85011427" uid="9918175" user="lensur"/>
+  <node id="4915876782" lat="35.1834302" lon="129.0804561" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4915876783" lat="35.1848089" lon="129.0835026" version="1" timestamp="2017-06-15T03:15:49Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876790" lat="35.1839522" lon="129.0836691" version="1" timestamp="2017-06-15T03:15:49Z" changeset="49546339" uid="5207199" user="FUKUTAN"/>
+  <node id="4915876823" lat="35.1910073" lon="129.0822315" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="4915895074" lat="35.1851226" lon="129.0833059" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="4958136005" lat="35.1872321" lon="129.0785471" version="2" timestamp="2020-03-27T15:16:05Z" changeset="82721353" uid="9918175" user="lensur"/>
+  <node id="4958136006" lat="35.1871371" lon="129.0784350" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136009" lat="35.1863164" lon="129.0809154" version="2" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham"/>
+  <node id="4958136010" lat="35.1861047" lon="129.0810497" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136011" lat="35.1865224" lon="129.0804014" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136012" lat="35.1864173" lon="129.0803670" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136016" lat="35.1876061" lon="129.0771496" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136017" lat="35.1873694" lon="129.0778077" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136018" lat="35.1867018" lon="129.0796098" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136019" lat="35.1860604" lon="129.0813012" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="4958136221" lat="35.1862398" lon="129.0808396" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136222" lat="35.1877078" lon="129.0772227" version="2" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="4958136224" lat="35.1867989" lon="129.0796508" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="4958136225" lat="35.1861609" lon="129.0813684" version="1" timestamp="2017-07-08T08:22:56Z" changeset="50127012" uid="4948977" user="레모네이두"/>
+  <node id="6606273325" lat="35.1905584" lon="129.0840597" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606273342" lat="35.1891431" lon="129.0856504" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="6606273347" lat="35.1901543" lon="129.0869366" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="6606304736" lat="35.1922036" lon="129.0836251" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304743" lat="35.1919285" lon="129.0819873" version="1" timestamp="2019-07-11T18:53:19Z" changeset="72148916" uid="2924920" user="maphunter36"/>
+  <node id="6606304752" lat="35.1913488" lon="129.0821410" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304762" lat="35.1907469" lon="129.0840099" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304766" lat="35.1914025" lon="129.0838367" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304771" lat="35.1916002" lon="129.0837845" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304785" lat="35.1893545" lon="129.0843778" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="6606304797" lat="35.1882773" lon="129.0819062" version="1" timestamp="2019-07-11T18:53:19Z" changeset="72148916" uid="2924920" user="maphunter36"/>
+  <node id="6606304800" lat="35.1882638" lon="129.0822244" version="1" timestamp="2019-07-11T18:53:19Z" changeset="72148916" uid="2924920" user="maphunter36"/>
+  <node id="6606304804" lat="35.1908704" lon="129.0878474" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="6606304806" lat="35.1911525" lon="129.0882063" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur"/>
+  <node id="6611332474" lat="35.1789995" lon="129.0761219" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6611333121" lat="35.1860250" lon="129.0811499" version="1" timestamp="2019-07-13T04:48:30Z" changeset="72202300" uid="2924920" user="maphunter36"/>
+  <node id="6611333123" lat="35.1859071" lon="129.0812506" version="1" timestamp="2019-07-13T04:48:30Z" changeset="72202300" uid="2924920" user="maphunter36"/>
+  <node id="6611333124" lat="35.1858651" lon="129.0812803" version="1" timestamp="2019-07-13T04:48:30Z" changeset="72202300" uid="2924920" user="maphunter36"/>
+  <node id="6611333129" lat="35.1855267" lon="129.0812935" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6611333139" lat="35.1821771" lon="129.0776857" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="6612030478" lat="35.1780726" lon="129.0753602" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6612030481" lat="35.1783865" lon="129.0755969" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6612030483" lat="35.1787516" lon="129.0759043" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6612040586" lat="35.1793919" lon="129.0764328" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="6612040590" lat="35.1801912" lon="129.0770701" version="3" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="7075572901" lat="35.1827876" lon="129.0765768" version="2" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur"/>
+  <node id="7222368486" lat="35.1795591" lon="129.0765733" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="7222368489" lat="35.1796663" lon="129.0766631" version="4" timestamp="2025-04-27T05:30:45Z" changeset="165490213" uid="20925809" user="qIRENEp"/>
+  <node id="7432889210" lat="35.1866533" lon="129.0846545" version="1" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur"/>
+  <node id="7433923404" lat="35.1904462" lon="129.0823802" version="2" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur"/>
+  <node id="7450804135" lat="35.1893694" lon="129.0784217" version="1" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur"/>
+  <node id="9706613129" lat="35.1867160" lon="129.0835104" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="9706613130" lat="35.1870156" lon="129.0830423" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="9706613131" lat="35.1864014" lon="129.0844329" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="9706613132" lat="35.1865998" lon="129.0840928" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN"/>
+  <node id="10314759012" lat="35.1855768" lon="129.0898595" version="1" timestamp="2023-01-08T14:04:12Z" changeset="131016246" uid="8386494" user="Min_T"/>
+  <node id="12109759152" lat="35.1787057" lon="129.0849192" version="1" timestamp="2024-08-14T07:45:24Z" changeset="155226106" uid="14338173" user="saori_"/>
+  <node id="12509191971" lat="35.1969954" lon="129.0795232" version="1" timestamp="2025-01-17T11:46:10Z" changeset="161452131" uid="2473440" user="pesec"/>
+  <node id="12785591037" lat="35.1965875" lon="129.0797894" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591038" lat="35.1962916" lon="129.0799155" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591039" lat="35.1951825" lon="129.0799718" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591040" lat="35.1943693" lon="129.0798645" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591041" lat="35.1935912" lon="129.0797492" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591042" lat="35.1934541" lon="129.0797771" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591043" lat="35.1957822" lon="129.0800123" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591044" lat="35.1900759" lon="129.0804916" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591045" lat="35.1887251" lon="129.0808266" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591046" lat="35.1865457" lon="129.0814425" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="12785591047" lat="35.1861118" lon="129.0815501" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12785591048" lat="35.1871316" lon="129.0812613" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591049" lat="35.1901352" lon="129.0806936" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591050" lat="35.1887754" lon="129.0810355" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591051" lat="35.1878983" lon="129.0812792" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591052" lat="35.1876044" lon="129.0813583" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591053" lat="35.1871666" lon="129.0814784" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591054" lat="35.1866911" lon="129.0815943" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591056" lat="35.1865047" lon="129.0815647" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591060" lat="35.1960603" lon="129.0799768" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12785591063" lat="35.1931545" lon="129.0798337" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591064" lat="35.1876686" lon="129.0810752" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591065" lat="35.1877139" lon="129.0813756" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp"/>
+  <node id="12785591066" lat="35.1876743" lon="129.0811133" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12785591067" lat="35.1876935" lon="129.0812405" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12785591068" lat="35.1877071" lon="129.0813306" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12785591069" lat="35.1860420" lon="129.0814534" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="12791011247" lat="35.1863187" lon="129.0817342" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011248" lat="35.1860972" lon="129.0817761" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011249" lat="35.1862588" lon="129.0815769" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="12791011250" lat="35.1858923" lon="129.0814013" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="12791011252" lat="35.1851652" lon="129.0808323" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011253" lat="35.1840829" lon="129.0799701" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011254" lat="35.1832510" lon="129.0793046" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011265" lat="35.1857549" lon="129.0812994" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011266" lat="35.1858272" lon="129.0815535" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="12791011269" lat="35.1759229" lon="129.0735773" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011270" lat="35.1758959" lon="129.0736280" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011273" lat="35.1774985" lon="129.0749179" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011275" lat="35.1780492" lon="129.0753416" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011285" lat="35.1823225" lon="129.0788060" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011287" lat="35.1825006" lon="129.0789435" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011288" lat="35.1831662" lon="129.0794529" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011290" lat="35.1839976" lon="129.0801029" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011293" lat="35.1844338" lon="129.0804536" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011294" lat="35.1850872" lon="129.0809621" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011296" lat="35.1857416" lon="129.0814184" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011297" lat="35.1818377" lon="129.0782935" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011298" lat="35.1802159" lon="129.0770161" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791011299" lat="35.1780857" lon="129.0752717" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791050001" lat="35.1753194" lon="129.0731928" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791050003" lat="35.1745529" lon="129.0726140" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="12791050004" lat="35.1787957" lon="129.0758531" version="1" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp"/>
+  <node id="13277680598" lat="35.1861503" lon="129.0814202" version="1" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="13277680599" lat="35.1860470" lon="129.0814127" version="1" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="13277680600" lat="35.1859788" lon="129.0815450" version="1" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924"/>
+  <node id="13277693701" lat="35.1862990" lon="129.0815580" version="1" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="13694994269" lat="35.1862028" lon="129.0816817" version="1" timestamp="2026-03-31T10:45:38Z" changeset="180666517" uid="7147307" user="mendines"/>
+  <node id="14158297210" lat="35.1918791" lon="129.0891270" version="1" timestamp="2026-09-06T19:54:15Z" changeset="188637014" uid="7147307" user="mendines"/>
+  <node id="14158297251" lat="35.1909516" lon="129.0879507" version="1" timestamp="2026-09-06T19:54:15Z" changeset="188637014" uid="7147307" user="mendines"/>
+  <node id="14158297263" lat="35.1904231" lon="129.0872785" version="1" timestamp="2026-09-06T19:54:15Z" changeset="188637014" uid="7147307" user="mendines"/>
+  <way id="26005519" version="38" timestamp="2024-10-06T01:13:06Z" changeset="157521617" uid="14338173" user="saori_">
+    <nd ref="12109759152"/>
+    <nd ref="2860431547"/>
+    <nd ref="2860431549"/>
+    <nd ref="2860431553"/>
+    <nd ref="1772223717"/>
+    <nd ref="2860431557"/>
+    <nd ref="4915874817"/>
+    <nd ref="2860431561"/>
+    <nd ref="2860431559"/>
+    <nd ref="2860431563"/>
+    <nd ref="2860431565"/>
+    <nd ref="1772223700"/>
+    <nd ref="1768492964"/>
+    <tag k="cycleway:both" v="track"/>
+    <tag k="cycleway:both:oneway" v="no"/>
+    <tag k="cycleway:both:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="noref" v="yes"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="37399210" version="21" timestamp="2025-11-25T08:36:56Z" changeset="175098887" uid="7245212" user="LuxuryCoop">
+    <nd ref="436818569"/>
+    <nd ref="6606304785"/>
+    <nd ref="6606273325"/>
+    <nd ref="6606304762"/>
+    <nd ref="6606304766"/>
+    <nd ref="6606304771"/>
+    <nd ref="6606304736"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="세병로"/>
+    <tag k="name:en" v="Sebyeong-ro"/>
+    <tag k="name:ko" v="세병로"/>
+    <tag k="name:ko-Latn" v="Sebyeong-ro"/>
+  </way>
+  <way id="37400617" version="36" timestamp="2026-09-06T19:54:15Z" changeset="188637014" uid="7147307" user="mendines">
+    <nd ref="414663644"/>
+    <nd ref="12791011248"/>
+    <nd ref="1768493018"/>
+    <nd ref="1772621899"/>
+    <nd ref="1772654473"/>
+    <nd ref="1772621857"/>
+    <nd ref="436818569"/>
+    <nd ref="1772621829"/>
+    <nd ref="6606273342"/>
+    <nd ref="6606273347"/>
+    <nd ref="14158297263"/>
+    <nd ref="436859903"/>
+    <nd ref="6606304804"/>
+    <nd ref="14158297251"/>
+    <nd ref="6606304806"/>
+    <nd ref="1773421582"/>
+    <nd ref="14158297210"/>
+    <nd ref="436843762"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="반송로"/>
+    <tag k="name:en" v="Bansong-ro"/>
+    <tag k="name:ko" v="반송로"/>
+    <tag k="noref" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165290628" version="7" timestamp="2024-10-06T01:14:37Z" changeset="157521617" uid="14338173" user="saori_">
+    <nd ref="1768492964"/>
+    <nd ref="1768492956"/>
+    <nd ref="4915876754"/>
+    <nd ref="1768492977"/>
+    <nd ref="1768492950"/>
+    <nd ref="436818093"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="shoulder"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165290629" version="12" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1768492949"/>
+    <nd ref="1768492973"/>
+    <nd ref="1768492974"/>
+    <nd ref="1768492967"/>
+    <nd ref="4958136009"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165290630" version="7" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1768493018"/>
+    <nd ref="1768493002"/>
+    <nd ref="1768492998"/>
+    <nd ref="1768492935"/>
+    <nd ref="12785591054"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk:right" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165290633" version="3" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur">
+    <nd ref="436818093"/>
+    <nd ref="1768493029"/>
+    <nd ref="1768492971"/>
+    <nd ref="1768493009"/>
+    <nd ref="1768493018"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165679331" version="4" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="12791011252"/>
+    <nd ref="1772207763"/>
+    <nd ref="1772207795"/>
+    <tag k="highway" v="residential"/>
+    <tag k="noname" v="yes"/>
+  </way>
+  <way id="165679332" version="2" timestamp="2019-08-26T21:24:52Z" changeset="73770495" uid="238290" user="octel">
+    <nd ref="1772207768"/>
+    <nd ref="1772207769"/>
+    <nd ref="1772207754"/>
+    <nd ref="1772207779"/>
+    <nd ref="1772207751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로146번길"/>
+    <tag k="name:en" v="Geojecheon-ro 146beon-gil"/>
+    <tag k="name:ko" v="거제천로146번길"/>
+  </way>
+  <way id="165679335" version="9" timestamp="2023-01-10T07:31:27Z" changeset="131094750" uid="14338173" user="saori_">
+    <nd ref="6611333139"/>
+    <nd ref="4634013255"/>
+    <nd ref="1772207819"/>
+    <nd ref="1772207813"/>
+    <nd ref="4633930952"/>
+    <nd ref="1772207739"/>
+    <nd ref="1772207768"/>
+    <nd ref="1772207809"/>
+    <nd ref="1772207795"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로145번길"/>
+    <tag k="name:en" v="World cup-daero 145beon-gil"/>
+    <tag k="name:ko" v="월드컵대로145번길"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165679336" version="3" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur">
+    <nd ref="1772207756"/>
+    <nd ref="1772207805"/>
+    <nd ref="1772207783"/>
+    <nd ref="1772207809"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로152번길"/>
+    <tag k="name:en" v="Geojecheon-ro 152beon-gil"/>
+    <tag k="name:ko" v="거제천로152번길"/>
+  </way>
+  <way id="165679337" version="6" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="436815487"/>
+    <nd ref="4633934892"/>
+    <nd ref="1772207782"/>
+    <nd ref="4633930951"/>
+    <nd ref="4633930952"/>
+    <nd ref="12791011254"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1065번길"/>
+    <tag k="name:en" v="Jungang-daero 1065beon-gil"/>
+    <tag k="name:ko" v="중앙대로1065번길"/>
+  </way>
+  <way id="165679338" version="5" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="436815489"/>
+    <nd ref="1772207806"/>
+    <nd ref="1772207790"/>
+    <nd ref="4633930950"/>
+    <nd ref="1772207739"/>
+    <nd ref="12791011253"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="중앙대로1075번길"/>
+    <tag k="name:en" v="Jungang-daero 1075beon-gil"/>
+    <tag k="name:ko" v="중앙대로1075번길"/>
+  </way>
+  <way id="165679339" version="5" timestamp="2020-04-22T08:53:50Z" changeset="83927382" uid="9918175" user="lensur">
+    <nd ref="1772207776"/>
+    <nd ref="1772207796"/>
+    <nd ref="1772207816"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로154번길"/>
+    <tag k="name:en" v="Geojecheon-ro 154beon-gil"/>
+    <tag k="name:ko" v="거제천로154번길"/>
+  </way>
+  <way id="165679344" version="8" timestamp="2022-12-20T08:29:30Z" changeset="130278607" uid="14338173" user="saori_">
+    <nd ref="7075572901"/>
+    <nd ref="1772207786"/>
+    <nd ref="1772207771"/>
+    <nd ref="4633930951"/>
+    <nd ref="1772207823"/>
+    <nd ref="4633930950"/>
+    <nd ref="1772207769"/>
+    <nd ref="1772207783"/>
+    <nd ref="1772207816"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로153번길"/>
+    <tag k="name:en" v="World cup-daero 153beon-gil"/>
+    <tag k="name:ko" v="월드컵대로153번길"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165681324" version="3" timestamp="2020-03-28T15:44:12Z" changeset="82756602" uid="9918175" user="lensur">
+    <nd ref="1772223817"/>
+    <nd ref="1772223728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로111번길"/>
+    <tag k="name:en" v="World cup-daero 111beon-gil"/>
+    <tag k="name:ko" v="월드컵대로111번길"/>
+  </way>
+  <way id="165681334" version="5" timestamp="2022-11-24T11:00:21Z" changeset="129317207" uid="14338173" user="saori_">
+    <nd ref="1772223699"/>
+    <nd ref="1772223827"/>
+    <nd ref="4915876782"/>
+    <nd ref="1772223801"/>
+    <nd ref="1772223771"/>
+    <nd ref="1772223817"/>
+    <nd ref="1772223693"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로119번길"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165681336" version="4" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772223771"/>
+    <nd ref="1772223781"/>
+    <nd ref="2860431563"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로99번길"/>
+    <tag k="name:en" v="World cup-daero 99beon-gil"/>
+    <tag k="name:ko" v="월드컵대로99번길"/>
+  </way>
+  <way id="165681339" version="4" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="12791011290"/>
+    <nd ref="1772223801"/>
+    <nd ref="4915876780"/>
+    <nd ref="1772223816"/>
+    <nd ref="1772223769"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1076번길"/>
+    <tag k="name:en" v="Jungang-daero 1076beon-gil"/>
+    <tag k="name:ko" v="중앙대로1076번길"/>
+  </way>
+  <way id="165681340" version="5" timestamp="2022-12-20T08:21:56Z" changeset="130278607" uid="14338173" user="saori_">
+    <nd ref="2860431565"/>
+    <nd ref="1772223728"/>
+    <nd ref="1772223781"/>
+    <nd ref="1772223816"/>
+    <nd ref="1772223760"/>
+    <nd ref="1772223733"/>
+    <nd ref="1772223767"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로111번길"/>
+    <tag k="name:en" v="World cup-daero 111beon-gil"/>
+    <tag k="name:ko" v="월드컵대로111번길"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="165722340" version="5" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621899"/>
+    <nd ref="1772654459"/>
+    <nd ref="1772621845"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="noname" v="yes"/>
+  </way>
+  <way id="165722344" version="4" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621845"/>
+    <nd ref="1772621859"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="noname" v="yes"/>
+  </way>
+  <way id="165722345" version="4" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="12791011294"/>
+    <nd ref="1772223693"/>
+    <tag k="highway" v="residential"/>
+    <tag k="noname" v="yes"/>
+  </way>
+  <way id="165722346" version="8" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="436818092"/>
+    <nd ref="1772621898"/>
+    <nd ref="1772621864"/>
+    <nd ref="9706613131"/>
+    <nd ref="7432889210"/>
+    <nd ref="1772621903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="고분로13번길"/>
+  </way>
+  <way id="165722357" version="7" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="2860431565"/>
+    <nd ref="4915895074"/>
+    <nd ref="1772625972"/>
+    <nd ref="436818092"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵로114번길"/>
+  </way>
+  <way id="165722358" version="5" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur">
+    <nd ref="1772621859"/>
+    <nd ref="4915876760"/>
+    <nd ref="1772621902"/>
+    <nd ref="4915876761"/>
+    <nd ref="1772621839"/>
+    <nd ref="1772223700"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵로120번길"/>
+  </way>
+  <way id="165722364" version="4" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621903"/>
+    <nd ref="1772621890"/>
+    <nd ref="1772621857"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="반송로"/>
+  </way>
+  <way id="165722831" version="5" timestamp="2020-04-23T03:24:25Z" changeset="83970051" uid="9918175" user="lensur">
+    <nd ref="1772626060"/>
+    <nd ref="1772625997"/>
+    <nd ref="1772625955"/>
+    <nd ref="1772626044"/>
+    <nd ref="1772626046"/>
+    <nd ref="1772625980"/>
+    <nd ref="1772626041"/>
+    <nd ref="1772626021"/>
+    <nd ref="1772626067"/>
+    <nd ref="1772625992"/>
+    <nd ref="1772625987"/>
+    <nd ref="1772626056"/>
+    <nd ref="1772626070"/>
+    <nd ref="1772625988"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="고분로20번길"/>
+  </way>
+  <way id="165722839" version="4" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772625985"/>
+    <nd ref="1772626003"/>
+    <nd ref="1772625988"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="쌍미천로129번길"/>
+  </way>
+  <way id="165722844" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772626035"/>
+    <nd ref="1772625966"/>
+    <nd ref="1772626019"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="쌍미천로135번길"/>
+  </way>
+  <way id="165722851" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772626016"/>
+    <nd ref="1772621865"/>
+    <nd ref="1772626056"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="쌍미천로125번길"/>
+  </way>
+  <way id="165725282" version="6" timestamp="2022-11-24T05:10:23Z" changeset="129306161" uid="14338173" user="saori_">
+    <nd ref="1772649256"/>
+    <nd ref="1772649274"/>
+    <nd ref="1772649262"/>
+    <nd ref="7450804135"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로182번길"/>
+    <tag k="name:en" v="Geojecheon-ro 182beon-gil"/>
+    <tag k="name:ko" v="거제천로182번길"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="165725283" version="5" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="1772649274"/>
+    <nd ref="12785591045"/>
+    <nd ref="436724952"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1133번길"/>
+    <tag k="name:en" v="Jungang-daero 1133beon-gil"/>
+    <tag k="name:ko" v="중앙대로1133번길"/>
+  </way>
+  <way id="165725285" version="6" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="4958136011"/>
+    <nd ref="1772649256"/>
+    <nd ref="12785591048"/>
+    <tag k="highway" v="residential"/>
+    <tag k="noname" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165726041" version="6" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591052"/>
+    <nd ref="1772654458"/>
+    <nd ref="1772654444"/>
+    <nd ref="1772654456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1120번길"/>
+    <tag k="name:en" v="Jungang-daero 1120beon-gil"/>
+    <tag k="name:ko" v="중앙대로1120번길"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165726045" version="4" timestamp="2020-04-27T02:42:49Z" changeset="84165116" uid="9918175" user="lensur">
+    <nd ref="6606304800"/>
+    <nd ref="1772654444"/>
+    <nd ref="1772654457"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1120번길"/>
+    <tag k="name:en" v="Jungang-daero 1120beon-gil"/>
+    <tag k="name:ko" v="중앙대로1120번길"/>
+  </way>
+  <way id="165726046" version="9" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="1772654487"/>
+    <nd ref="6606304800"/>
+    <nd ref="6606304797"/>
+    <nd ref="12785591051"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로1124번길"/>
+    <tag k="name:en" v="Jungang-daero 1124beon-gil"/>
+    <tag k="name:ko" v="중앙대로1124번길"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165726047" version="4" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591053"/>
+    <nd ref="1772654457"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ko" v="중앙대로"/>
+  </way>
+  <way id="165726048" version="5" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772654459"/>
+    <nd ref="9706613130"/>
+    <nd ref="1772654473"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="noname" v="yes"/>
+  </way>
+  <way id="165726049" version="11" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur">
+    <nd ref="1772654473"/>
+    <nd ref="1772654456"/>
+    <nd ref="1772654477"/>
+    <nd ref="1772654487"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로230번길"/>
+    <tag k="name:en" v="Geojecheon-ro 230beon-gil"/>
+    <tag k="name:ko" v="거제천로230번길"/>
+  </way>
+  <way id="369240560" version="7" timestamp="2024-10-06T01:14:25Z" changeset="157521617" uid="14338173" user="saori_">
+    <nd ref="6611333129"/>
+    <nd ref="1768492976"/>
+    <nd ref="3730463269"/>
+    <nd ref="1768492997"/>
+    <nd ref="1768492957"/>
+    <nd ref="1768493024"/>
+    <nd ref="1768492964"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk:right" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="369240563" version="10" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="4958136221"/>
+    <nd ref="4958136010"/>
+    <nd ref="6611333121"/>
+    <nd ref="6611333123"/>
+    <nd ref="6611333124"/>
+    <nd ref="1768492960"/>
+    <nd ref="12791011265"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="500551294" version="3" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="4915805215"/>
+    <nd ref="4915805216"/>
+    <nd ref="4915805217"/>
+    <nd ref="4915805218"/>
+    <nd ref="4915805219"/>
+    <nd ref="4915805220"/>
+    <nd ref="4915805221"/>
+    <nd ref="4915805222"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="고분로20번가길"/>
+  </way>
+  <way id="500562199" version="1" timestamp="2017-06-15T03:15:50Z" changeset="49546339" uid="5207199" user="FUKUTAN">
+    <nd ref="4915876754"/>
+    <nd ref="4915876755"/>
+    <nd ref="4915876764"/>
+    <nd ref="4915876756"/>
+    <nd ref="4915876757"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="500564996" version="1" timestamp="2017-06-15T03:46:08Z" changeset="49546640" uid="5207199" user="FUKUTAN">
+    <nd ref="1772621902"/>
+    <nd ref="4915895074"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="506007334" version="12" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="414663644"/>
+    <nd ref="12785591047"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="506009344" version="11" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham">
+    <nd ref="4958136019"/>
+    <nd ref="13277680599"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="506009345" version="14" timestamp="2026-03-31T13:56:25Z" changeset="180675494" uid="7147307" user="mendines">
+    <nd ref="4958136225"/>
+    <nd ref="4958136009"/>
+    <nd ref="4958136011"/>
+    <nd ref="4958136224"/>
+    <nd ref="4958136005"/>
+    <nd ref="4958136222"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="512187678" version="18" timestamp="2025-11-25T08:37:00Z" changeset="175098887" uid="7245212" user="LuxuryCoop">
+    <nd ref="436724932"/>
+    <nd ref="12791050003"/>
+    <nd ref="12791050001"/>
+    <nd ref="12791011270"/>
+    <nd ref="1768604864"/>
+    <nd ref="1771107865"/>
+    <nd ref="436724937"/>
+    <nd ref="12791011273"/>
+    <nd ref="1771107855"/>
+    <nd ref="436724938"/>
+    <nd ref="12791011275"/>
+    <nd ref="6612030478"/>
+    <nd ref="6612030481"/>
+    <nd ref="6612030483"/>
+    <nd ref="6611332474"/>
+    <nd ref="6612040586"/>
+    <nd ref="7222368486"/>
+    <nd ref="7222368489"/>
+    <nd ref="6612040590"/>
+    <nd ref="2395780680"/>
+    <nd ref="436724943"/>
+    <nd ref="1772203896"/>
+    <nd ref="1772203894"/>
+    <nd ref="4633975089"/>
+    <nd ref="436724945"/>
+    <nd ref="12791011285"/>
+    <nd ref="1772223751"/>
+    <nd ref="12791011287"/>
+    <nd ref="436724946"/>
+    <nd ref="12791011288"/>
+    <nd ref="12791011290"/>
+    <nd ref="12791011293"/>
+    <nd ref="12791011294"/>
+    <nd ref="6611333129"/>
+    <nd ref="12791011266"/>
+    <nd ref="414663644"/>
+    <tag k="cycleway:both" v="track"/>
+    <tag k="cycleway:both:oneway" v="no"/>
+    <tag k="cycleway:both:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="name:ko-Hani" v="中央大路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="517488002" version="9" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="4958136016"/>
+    <nd ref="4958136017"/>
+    <nd ref="4958136006"/>
+    <nd ref="4958136018"/>
+    <nd ref="4958136012"/>
+    <nd ref="4958136221"/>
+    <nd ref="4958136019"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="718305531" version="2" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772626027"/>
+    <nd ref="1772626043"/>
+    <nd ref="1772626039"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="쌍미천로141번길"/>
+    <tag k="name:en" v="Ssangmicheon-ro 141beon-gil"/>
+    <tag k="name:ko" v="쌍미천로141번길"/>
+  </way>
+  <way id="718492834" version="2" timestamp="2020-04-27T02:36:42Z" changeset="84164984" uid="9918175" user="lensur">
+    <nd ref="1772654457"/>
+    <nd ref="1772621899"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="반송로"/>
+    <tag k="name:en" v="Bansong-ro"/>
+    <tag k="name:ko" v="반송로"/>
+  </way>
+  <way id="718492835" version="2" timestamp="2020-03-27T15:16:05Z" changeset="82721353" uid="9918175" user="lensur">
+    <nd ref="4958136005"/>
+    <nd ref="1772649274"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로164번길"/>
+    <tag k="name:en" v="World cup-daero 164beon-gil"/>
+    <tag k="name:ko" v="월드컵대로164번길"/>
+  </way>
+  <way id="757351801" version="3" timestamp="2020-04-27T02:14:37Z" changeset="84164461" uid="9918175" user="lensur">
+    <nd ref="1772626002"/>
+    <nd ref="1772630911"/>
+    <nd ref="1772625948"/>
+    <nd ref="1772625946"/>
+    <nd ref="1772625964"/>
+    <nd ref="1772626034"/>
+    <nd ref="1772625983"/>
+    <nd ref="4915874815"/>
+    <nd ref="1772625967"/>
+    <nd ref="1772626055"/>
+    <nd ref="1772626007"/>
+    <nd ref="4915805215"/>
+    <nd ref="4915876790"/>
+    <nd ref="1772626033"/>
+    <nd ref="1772625947"/>
+    <nd ref="4915876783"/>
+    <nd ref="1772625972"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="대리로5번길"/>
+  </way>
+  <way id="758765197" version="4" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621864"/>
+    <nd ref="1772621871"/>
+    <nd ref="1772621855"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="쌍미천로151번길"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="758765198" version="4" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621892"/>
+    <nd ref="1772621885"/>
+    <nd ref="7432889210"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="쌍미천로155번길"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="771838157" version="2" timestamp="2024-08-14T07:49:26Z" changeset="155226230" uid="14338173" user="saori_">
+    <nd ref="1772207795"/>
+    <nd ref="1772207792"/>
+    <nd ref="4958136012"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로145번길"/>
+    <tag k="name:en" v="World cup-daero 145beon-gil"/>
+    <tag k="name:ko" v="월드컵대로145번길"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="771838158" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621816"/>
+    <nd ref="1772621883"/>
+    <nd ref="1772621898"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="noname" v="yes"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="771838159" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="1772621898"/>
+    <nd ref="1772621845"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="고분로13번길"/>
+    <tag k="name:en" v="Gobun-ro 13beon-gil"/>
+    <tag k="name:ko" v="고분로13번길"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="771838160" version="4" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="12791011293"/>
+    <nd ref="1772223771"/>
+    <tag k="highway" v="residential"/>
+    <tag k="noname" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="794688373" version="1" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772625988"/>
+    <nd ref="1772626019"/>
+    <nd ref="4915805222"/>
+    <nd ref="1772626039"/>
+    <nd ref="1772625986"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="고분로20번길"/>
+  </way>
+  <way id="794688374" version="1" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772625988"/>
+    <nd ref="4915805219"/>
+    <nd ref="1772626033"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="쌍미천로129번길"/>
+  </way>
+  <way id="794688376" version="3" timestamp="2025-11-25T08:37:00Z" changeset="175098887" uid="7245212" user="LuxuryCoop">
+    <nd ref="10314759012"/>
+    <nd ref="1772626092"/>
+    <nd ref="436818089"/>
+    <nd ref="1772621810"/>
+    <nd ref="1772621816"/>
+    <nd ref="1772625986"/>
+    <nd ref="436818092"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="고분로"/>
+    <tag k="name:en" v="Gobun-ro"/>
+    <tag k="name:ko" v="고분로"/>
+    <tag k="name:ko-Latn" v="Gobun-ro"/>
+  </way>
+  <way id="794688377" version="2" timestamp="2025-11-25T08:37:00Z" changeset="175098887" uid="7245212" user="LuxuryCoop">
+    <nd ref="436818092"/>
+    <nd ref="1772621859"/>
+    <nd ref="436818093"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="고분로"/>
+    <tag k="name:en" v="Gobun-ro"/>
+    <tag k="name:ko" v="고분로"/>
+    <tag k="name:ko-Latn" v="Gobun-ro"/>
+  </way>
+  <way id="794688378" version="4" timestamp="2025-11-25T08:37:00Z" changeset="175098887" uid="7245212" user="LuxuryCoop">
+    <nd ref="436818093"/>
+    <nd ref="414663644"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="고분로"/>
+    <tag k="name:en" v="Gobun-ro"/>
+    <tag k="name:ko" v="고분로"/>
+    <tag k="name:ko-Latn" v="Gobun-ro"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="794688380" version="2" timestamp="2022-11-24T10:08:46Z" changeset="129317207" uid="14338173" user="saori_">
+    <nd ref="1772223693"/>
+    <nd ref="1772223780"/>
+    <nd ref="1772223700"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로119번길"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="794688387" version="1" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772207816"/>
+    <nd ref="1772207792"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로154번길"/>
+    <tag k="name:en" v="Geojecheon-ro 154beon-gil"/>
+    <tag k="name:ko" v="거제천로154번길"/>
+  </way>
+  <way id="794688388" version="1" timestamp="2020-04-22T08:21:35Z" changeset="83925065" uid="9918175" user="lensur">
+    <nd ref="1772207816"/>
+    <nd ref="4958136018"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="월드컵대로153번길"/>
+    <tag k="name:en" v="World cup-daero 153beon-gil"/>
+    <tag k="name:ko" v="월드컵대로153번길"/>
+  </way>
+  <way id="795083570" version="7" timestamp="2024-10-06T01:14:17Z" changeset="157521617" uid="14338173" user="saori_">
+    <nd ref="1768492964"/>
+    <nd ref="414663644"/>
+    <tag k="cycleway:both" v="shoulder"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="noref" v="yes"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="795088372" version="1" timestamp="2020-04-23T03:52:12Z" changeset="83970899" uid="9918175" user="lensur">
+    <nd ref="1772654487"/>
+    <nd ref="1772654460"/>
+    <nd ref="7433923404"/>
+    <nd ref="4915876823"/>
+    <nd ref="6606304752"/>
+    <nd ref="6606304743"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="거제천로230번길"/>
+    <tag k="name:en" v="Geojecheon-ro 230beon-gil"/>
+    <tag k="name:ko" v="거제천로230번길"/>
+  </way>
+  <way id="1056370711" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN">
+    <nd ref="9706613129"/>
+    <nd ref="9706613130"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="1056370712" version="1" timestamp="2022-05-01T08:31:00Z" changeset="120410684" uid="5207199" user="FUKUTAN">
+    <nd ref="9706613131"/>
+    <nd ref="9706613132"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+  </way>
+  <way id="1292830755" version="4" timestamp="2025-11-25T13:57:59Z" changeset="175111975" uid="7245212" user="LuxuryCoop">
+    <nd ref="12785591044"/>
+    <nd ref="12785591045"/>
+    <nd ref="12785591066"/>
+    <nd ref="12785591048"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093793" version="3" timestamp="2026-03-31T10:45:38Z" changeset="180666517" uid="7147307" user="mendines">
+    <nd ref="414663644"/>
+    <nd ref="12791011296"/>
+    <nd ref="12791011297"/>
+    <nd ref="12791011298"/>
+    <nd ref="12791050004"/>
+    <nd ref="12791011299"/>
+    <nd ref="12791011269"/>
+    <nd ref="436724931"/>
+    <tag k="highway" v="busway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093795" version="5" timestamp="2026-03-31T10:45:38Z" changeset="180666517" uid="7147307" user="mendines">
+    <nd ref="414663644"/>
+    <nd ref="13277680600"/>
+    <nd ref="12791011250"/>
+    <nd ref="12791011265"/>
+    <nd ref="12791011252"/>
+    <nd ref="12791011253"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093796" version="2" timestamp="2025-04-27T05:23:51Z" changeset="165490159" uid="20925809" user="qIRENEp">
+    <nd ref="414663644"/>
+    <nd ref="12791011247"/>
+    <nd ref="12785591054"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093798" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591054"/>
+    <nd ref="12785591053"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093799" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591052"/>
+    <nd ref="12785591068"/>
+    <nd ref="12785591051"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093801" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591051"/>
+    <nd ref="12785591050"/>
+    <nd ref="12785591049"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093802" version="3" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham">
+    <nd ref="12785591048"/>
+    <nd ref="1768492949"/>
+    <nd ref="12785591046"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093803" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591053"/>
+    <nd ref="12785591052"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:oneway" v="no"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093805" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591064"/>
+    <nd ref="12785591066"/>
+    <nd ref="12785591067"/>
+    <nd ref="12785591068"/>
+    <nd ref="12785591065"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1381093806" version="2" timestamp="2025-11-03T14:05:44Z" changeset="174149660" uid="10626814" user="aaei924">
+    <nd ref="12785591047"/>
+    <nd ref="13277680598"/>
+    <nd ref="4958136225"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381093808" version="1" timestamp="2025-04-25T10:33:30Z" changeset="165417023" uid="20925809" user="qIRENEp">
+    <nd ref="12785591069"/>
+    <nd ref="414663644"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1381590065" version="2" timestamp="2025-11-25T13:57:59Z" changeset="175111975" uid="7245212" user="LuxuryCoop">
+    <nd ref="12791011253"/>
+    <nd ref="12791011254"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1494563722" version="1" timestamp="2026-03-31T10:45:38Z" changeset="180666517" uid="7147307" user="mendines">
+    <nd ref="12509191971"/>
+    <nd ref="12785591037"/>
+    <nd ref="12785591038"/>
+    <nd ref="12785591060"/>
+    <nd ref="12785591043"/>
+    <nd ref="12785591039"/>
+    <nd ref="12785591040"/>
+    <nd ref="12785591041"/>
+    <nd ref="12785591042"/>
+    <nd ref="12785591063"/>
+    <nd ref="4654857450"/>
+    <nd ref="436724952"/>
+    <nd ref="12785591067"/>
+    <nd ref="12785591056"/>
+    <nd ref="13694994269"/>
+    <nd ref="414663644"/>
+    <tag k="highway" v="busway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1494563723" version="1" timestamp="2026-03-31T10:45:38Z" changeset="180666517" uid="7147307" user="mendines">
+    <nd ref="12785591046"/>
+    <nd ref="13277693701"/>
+    <nd ref="12791011249"/>
+    <nd ref="414663644"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="name" v="중앙대로"/>
+    <tag k="name:en" v="Jungang-daero"/>
+    <tag k="name:ja" v="中央大路"/>
+    <tag k="name:ko" v="중앙대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="7"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1574162600" version="1" timestamp="2026-11-01T10:58:48Z" changeset="191312789" uid="3042055" user="Iranto_Ham">
+    <nd ref="13277680599"/>
+    <nd ref="12785591069"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="월드컵대로"/>
+    <tag k="name:en" v="World cup-daero"/>
+    <tag k="name:ja" v="ワールドカップ大路"/>
+    <tag k="name:ko" v="월드컵대로"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>
