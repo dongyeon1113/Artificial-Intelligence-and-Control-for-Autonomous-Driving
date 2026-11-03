@@ -16,7 +16,9 @@ PY
 )
 # Overpass 서버가 혼잡하면 거절하므로 대기 시간을 늘려 가며 재시도 (미러 2곳 번갈아)
 ok=0
+if head -c 400 data/osm/$NAME.osm 2>/dev/null | grep -q "<osm "; then ok=1; echo "기존 OSM 사용: data/osm/$NAME.osm"; fi
 for wait in 0 15 30 60 90; do
+  [ $ok = 1 ] && break
   sleep $wait
   for H in https://overpass-api.de/api/interpreter https://overpass.kumi.systems/api/interpreter; do
     curl -s -m 120 -A "sumo-demo/1.0 (student project)" -o data/osm/$NAME.osm \
@@ -31,13 +33,8 @@ netconvert --node-files $OUT/net.nod.xml --edge-files $OUT/net.edg.xml -o $OUT/n
   --no-turnarounds true --junctions.join true --tls.join true --junctions.corner-detail 5 \
   --offset.disable-normalization true --sidewalks.guess true --sidewalks.guess.max-speed 14 \
   --crossings.guess true --crossings.guess.speed-threshold 14
-# 일반 차량 4종 혼합 (청계천로 시나리오와 동일 정의 재사용)
-python - <<PY
-import re
-r=open("env/cheonggyecheon/cgc.rou.xml").read()
-m=re.search(r'    <vTypeDistribution id="carDist">.*?</vTypeDistribution>',r,re.S)
-open("$OUT/vtypes.add.xml","w").write("<additional>\n"+m.group(0)+'\n    <vType id="ped" vClass="pedestrian" speed="1.3" color="0,0.4,1"/>\n</additional>\n')
-PY
+# 일반 차량 4종 혼합 + 보행자 차종 정의(tools/vtypes_cars.add.xml)
+cp tools/vtypes_cars.add.xml $OUT/vtypes.add.xml
 T=$SUMO_HOME/tools
 python $T/randomTrips.py -n $OUT/net.net.xml -r $OUT/veh.rou.xml -o $OUT/veh.trips.xml -e 1800 -p ${VEH_PERIOD:-4} \
   --fringe-factor 40 --min-distance 200 --trip-attributes 'type="carDist" departLane="best" departSpeed="max"' --additional-files $OUT/vtypes.add.xml --validate
