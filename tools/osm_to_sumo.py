@@ -18,6 +18,10 @@ from collections import Counter
 
 ORIGIN = (126.9772, 37.5693)            # (lon, lat) 청계광장 서쪽 끝 부근
 BBOX = (126.9760, 37.5668, 127.0030, 37.5712)  # west, south, east, north
+# 다른 지역(예: 연산교차로)은 환경변수로 덮어쓴다: OSM_ORIGIN="lon,lat" OSM_BBOX="w,s,e,n"
+if os.environ.get("OSM_ORIGIN"):
+    ORIGIN = tuple(float(v) for v in os.environ["OSM_ORIGIN"].split(","))
+    BBOX = tuple(float(v) for v in os.environ["OSM_BBOX"].split(","))
 
 # 자동차가 다닐 수 있는 도로 종류 (보행자·자전거 전용 제외)
 CAR_HIGHWAYS = {"primary", "secondary", "tertiary", "unclassified", "residential",
@@ -138,7 +142,38 @@ def convert(osm_path, out_dir):
         for r in (a, b):
             incident.setdefault(r, []).append(speed)
 
+    # OSM은 신호를 교차로 중심이 아니라 진입로 정지선 노드에 찍는 경우가 많다.
+    # OSM_STOPLINE_PROMOTE=1이면 정지선 신호(연결 도로 2개 이하)에서 60 m 안의 첫 교차점을
+    # 신호교차로로 승격하고, 정지선 신호 자체는 일반 노드로 돌린다.
+    promote, stopline = set(), set()
+    if os.environ.get("OSM_STOPLINE_PROMOTE"):
+        adj = {}
+        for _, a, b, _, _, _, _ in edges:
+            adj.setdefault(a, set()).add(b)
+            adj.setdefault(b, set()).add(a)
+        for r in used_nodes:
+            if r in signals and len(adj.get(r, ())) <= 2:
+                seen, frontier = {r}, [(r, 0.0)]
+                while frontier:
+                    cur, d = frontier.pop(0)
+                    if cur != r and len(adj.get(cur, ())) >= 3:
+                        promote.add(cur)
+                        stopline.add(r)
+                        break
+                    for nb in adj.get(cur, ()):
+                        if nb in seen:
+                            continue
+                        seen.add(nb)
+                        x0, y0 = project(*nodes[cur]); x1, y1 = project(*nodes[nb])
+                        nd = d + math.hypot(x1 - x0, y1 - y0)
+                        if nd <= 60.0:
+                            frontier.append((nb, nd))
+
     def useful_signal(r):
+        if r in promote:
+            return True
+        if r in stopline:
+            return False
         spd = incident.get(r, [])
         return r in signals and not (len(spd) <= 2 and max(spd, default=0) > 14.0)
 
