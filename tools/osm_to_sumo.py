@@ -131,11 +131,23 @@ def convert(osm_path, out_dir):
                 used_nodes.update([seg[0], seg[-1]])
 
     os.makedirs(out_dir, exist_ok=True)
+    # 중간 지점(연결 도로 2개 이하)에 있는 신호가 14 m/s 넘는 빠른 도로 위라면
+    # 보도·횡단보도가 생성되지 않아 "항상 초록" 신호가 되므로 일반 노드로 둔다.
+    incident = {}
+    for _, a, b, _, speed, _, _ in edges:
+        for r in (a, b):
+            incident.setdefault(r, []).append(speed)
+
+    def useful_signal(r):
+        spd = incident.get(r, [])
+        return r in signals and not (len(spd) <= 2 and max(spd, default=0) > 14.0)
+
+    n_drop = sum(1 for r in used_nodes if r in signals and not useful_signal(r))
     with open(os.path.join(out_dir, "cgc.nod.xml"), "w") as f:
         f.write("<nodes>\n")
         for r in sorted(used_nodes):
             x, y = project(*nodes[r])
-            kind = "traffic_light" if r in signals else "priority"
+            kind = "traffic_light" if useful_signal(r) else "priority"
             f.write(f'    <node id="n{r}" x="{x:.2f}" y="{y:.2f}" type="{kind}"/>\n')
         f.write("</nodes>\n")
     with open(os.path.join(out_dir, "cgc.edg.xml"), "w") as f:
@@ -150,8 +162,8 @@ def convert(osm_path, out_dir):
                     f'{name_attr}{attr}/>\n')
         f.write("</edges>\n")
 
-    n_tl = len(signals & used_nodes)
-    print(f"노드 {len(used_nodes)}개 (신호등 {n_tl}), 엣지 {len(edges)}개 → {out_dir}")
+    n_tl = sum(1 for r in used_nodes if useful_signal(r))
+    print(f"노드 {len(used_nodes)}개 (신호등 {n_tl}, 빠른 도로 중간 신호 {n_drop}개 제외), 엣지 {len(edges)}개 → {out_dir}")
     return edges
 
 
